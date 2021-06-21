@@ -1,0 +1,9 @@
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\bin\Debug\netcoreapp3.1\Katas.deps.json
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\bin\Debug\netcoreapp3.1\Katas.dll
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\bin\Debug\netcoreapp3.1\Katas.pdb
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\obj\Debug\netcoreapp3.1\Katas.csprojAssemblyReference.cache
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\obj\Debug\netcoreapp3.1\Katas.AssemblyInfoInputs.cache
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\obj\Debug\netcoreapp3.1\Katas.AssemblyInfo.cs
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\obj\Debug\netcoreapp3.1\Katas.csproj.CoreCompileInputs.cache
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\obj\Debug\netcoreapp3.1\Katas.dll
+C:\Users\grace.davies\source\repos\Katas\Katas\Katas\obj\Debug\netcoreapp3.1\Katas.pdb
